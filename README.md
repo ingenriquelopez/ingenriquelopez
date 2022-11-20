@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/e058eecc0652ff38a4e7062cfcf08c9d.gif" alt="ingenriquelopez" /> </p>
-h1 align="center">Hi 👋, I'm ENRIQUE LOPEZ FLORES</h1>
+<h1> align="center">Hi 👋, I'm ENRIQUE LOPEZ FLORES</h1>
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingenriquelopez&label=Profile%20views&color=0e75b6&style=flat" alt="ingenriquelopez" /> </p>
