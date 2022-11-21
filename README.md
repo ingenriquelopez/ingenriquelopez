@@ -18,3 +18,5 @@
 <p>Como desarrollador Web Full Manejo tecnologias como Html, Css, React, BootStrap, Redux, Node, Express, Sequelize, Postgresql. en Henry con un superequipo :) de Web Developers logramos crear como proyecto Final un E-commerce usando SCRUM.
 He dado cursos de capacitacion, desarrollado sistemas para puntos de venta, de ferreterias, papelerias, refaccionarias, farmacias, etc. lo que me dado un conocimiento y panorama mas amplio sobre la logica de negocios. 
 Aunque no lo se todo, puedo aportar mucho, soy perseverante, responsable, analitico, orientado a objetivos y resolver problemas.
+<hr>
+<h2> Proyecto E-commerce </h2>
