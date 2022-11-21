@@ -20,3 +20,5 @@ He dado cursos de capacitacion, desarrollado sistemas para puntos de venta, de f
 Aunque no lo se todo, puedo aportar mucho, soy perseverante, responsable, analitico, orientado a objetivos y resolver problemas.
 <hr>
 <h2> Proyecto E-commerce </h2>
+
+<p align="left"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Slide1.JPG" alt="ingenriquelopez" /> </p>
