@@ -22,4 +22,4 @@ Aunque no lo se todo, puedo aportar mucho, soy perseverante, responsable, analit
 <h2> Proyecto E-commerce </h2>
 
 <p align="left"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Slide1.JPG" alt="ingenriquelopez" /> </p>
-<a href = "https://e-commerce-pf-henna.vercel.app/"> Ecommerce Tecnoshop </a>
+<a href = "https://e-commerce-pf-henna.vercel.app/"> Ecommerce Tecnoshop (Deployado) </a>
