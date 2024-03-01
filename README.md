@@ -5,6 +5,8 @@
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingenriquelopez&label=Profile%20views&color=0e75b6&style=flat" alt="ingenriquelopez" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1s4Qqp5yfbxSe873u0Jt5Dnw5xM1zf1U6/view?usp=drive_link" alt="ingenriquelopez" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
