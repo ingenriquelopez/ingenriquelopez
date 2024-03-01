@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm ENRIQUE LOPEZ FLORES</h1>
-<p align="left"> <img src="https://drive.google.com/file/d/1xr4QVBaLcU0KRlhwnQ9DrpUvCWQ_p6s-/view?usp=drive_link" alt="ingenriquelopez" /> </p>
-<p align="left"> <img src="https://drive.google.com/file/d/1xr4QVBaLcU0KRlhwnQ9DrpUvCWQ_p6s-/view?usp=sharing" alt="ingenriquelopez" /> </p>
 
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
 
