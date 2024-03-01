@@ -5,7 +5,7 @@
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingenriquelopez&label=Profile%20views&color=0e75b6&style=flat" alt="ingenriquelopez" /> </p>
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtMmprc2l4bHVvY3JheWxqc2w0c3NrdmJ2bGxreno4aTNvYWFrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AnhDLGRqbljEbQbeEZ/giphy.gif" alt="ingenriquelopez" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB5NmVzMjl2eDZkbjMwdnI0ZXo5c2ZzOTR5cXQ5ZzRnaDh0bTN4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIg4AGpBiwg4UIswKk/giphy.gif" alt="ingenriquelopez" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
