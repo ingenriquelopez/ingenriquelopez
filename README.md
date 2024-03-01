@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB5NmVzMjl2eDZkbjMwdnI0ZXo5c2ZzOTR5cXQ5ZzRnaDh0bTN4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIg4AGpBiwg4UIswKk/giphy.gif" alt="ingenriquelopez" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB5NmVzMjl2eDZkbjMwdnI0ZXo5c2ZzOTR5cXQ5ZzRnaDh0bTN4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIg4AGpBiwg4UIswKk/giphy.gif" alt="ingenriquelopez" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
