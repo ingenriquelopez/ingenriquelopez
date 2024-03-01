@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ENRIQUE LOPEZ FLORES</h1>
 
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
-<p align="left">
+<p align="center">
   <img src="desarrollador-full-stack.jpg" alt="ingenriquelopez" />
 <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique-lopezflores" height="30" width="40" /></a>
 </p>
