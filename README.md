@@ -7,8 +7,9 @@
 </p>
 
 
-  <h3 align="left">Connect with me:</h3>
+
   <p align="center">
+      <h3 align="left">Connect with me:</h3>
     <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center"     
      src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/in.avif" alt="enrique-lopezflores" height="30" 
     width="40" /></a>
