@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center"> <img src="" alt="ingenriquelopez" /> </p>
+<p align="center"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
