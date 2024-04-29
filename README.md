@@ -8,8 +8,7 @@
 
 
   <h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-    generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique-lopezflores" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center" src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/in.avif" alt="enrique-lopezflores" height="30" width="40" /></a>
   <p align="center"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" margin= "auto"/> </p>  
   
 
