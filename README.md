@@ -9,9 +9,10 @@
 
 
 <div>
+  <p align="center"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" /> </p>  
   <h3 align="left">Connect with me:</h3>
   <p> lolo </p>
-  <p align="center"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" /> </p>  
+  
 </div>
 
 
