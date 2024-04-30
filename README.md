@@ -36,8 +36,19 @@ Habilidades Técnicas
 <h4>Frontend </h4>: Excelente dominio de HTML, CSS y JavaScript, junto con experiencia en frameworks modernos como React para crear interfaces de usuario interactivas y receptivas.
 <h4>Backend </h4>: Sólidos conocimientos en Node.js y Express para el desarrollo de servidores y APIs robustas, garantizando un rendimiento óptimo y una escalabilidad eficiente.
 <h4>Bases de Datos</h4>: Experiencia en el diseño y gestión de bases de datos SQL Server, MongoDB y PostgreSQL, asegurando la integridad de los datos y la eficiencia de las consultas.
-<h3>Proyectos Destacados </h3>
-Sistema de Gestión de Ventas: Desarrollé un sistema de gestión de ventas para una empresa minorista, utilizando React en el frontend y Node.js en el backend, con integración de MongoDB para el almacenamiento de datos.
+<h4>Proyectos Destacados </h4>
+<h3>HELPDESK</h3>
+<p>
+  Uno de mis proyectos destacados es Helpdesk, un sistema completo para gestionar la administración y control de servicios de soporte técnico. Con Helpdesk, las empresas pueden gestionar de manera eficiente sus tickets de soporte, asignar tareas, realizar seguimientos y generar informes detallados para mejorar la calidad del servicio.
+
+Helpdesk fue desarrollado utilizando un conjunto de tecnologías de vanguardia. En el lado del cliente, utilicé JavaScript, CSS y Bootstrap para crear una interfaz de usuario intuitiva y receptiva. Para la parte frontal, adopté React, aprovechando su capacidad para crear interfaces de usuario interactivas y escalables. En el lado del servidor, Node.js proporcionó la base para construir una API sólida y eficiente. Para la persistencia de datos, confié en PostgreSQL, un potente sistema de gestión de bases de datos relacional.
+
+Además, para garantizar un despliegue sin problemas y una alta disponibilidad, opté por los servicios de AWS. Utilizando las capacidades de AWS, pude implementar Helpdesk de manera rápida y segura, garantizando una experiencia sin interrupciones para los usuarios finales.
+
+Estoy muy orgulloso del trabajo que he realizado en Helpdesk y estoy emocionado de seguir desarrollando soluciones innovadoras en el campo del desarrollo web full stack. Siempre estoy abierto a nuevas oportunidades de colaboración y estoy dispuesto a contribuir con mi experiencia y conocimientos a proyectos interesantes.
+</p>
+
+<h3>TECNOSHOP </h3>: Desarrollé un sistema de gestión de ventas para una empresa minorista, utilizando React en el frontend y Node.js en el backend, con integración de MongoDB para el almacenamiento de datos.
 Dashboard Interactivo de Análisis de Datos: Creé un dashboard interactivo utilizando Tableau, que permite a los usuarios explorar y visualizar datos de ventas en tiempo real, facilitando la toma de decisiones informadas.
 Colaboración y Comunicación
 Soy un firme creyente en el trabajo en equipo y la comunicación clara. Disfruto colaborando con otros desarrolladores y equipos multidisciplinarios para alcanzar objetivos comunes y superar desafíos técnicos de manera efectiva.
