@@ -48,7 +48,7 @@ Además, para garantizar un despliegue sin problemas y una alta disponibilidad, 
 Estoy muy orgulloso del trabajo que he realizado en Helpdesk y estoy emocionado de seguir desarrollando soluciones innovadoras en el campo del desarrollo web full stack. Siempre estoy abierto a nuevas oportunidades de colaboración y estoy dispuesto a contribuir con mi experiencia y conocimientos a proyectos interesantes.
 </p>
 
-<h3>TECNOSHOP:</h3> Desarrollé un sistema Ecommerce para gestión de ventas online para una empresa comercializadora de articulos de tecnologia, utilizando React en el frontend y Node.js en el backend, con integración de MongoDB para el almacenamiento de datos.
+<h3>TECNOSHOP:</h3> Desarrollé un sistema Ecommerce para gestión de ventas online para una empresa comercializadora de articulos de tecnologia, utilizando React y Redux en el frontend y Node.js Express y sequelize en el backend, con integración a Postgresql para el almacenamiento de datos.Cuenta con autentificacion usando Auth0 y almacenamiento de imagenes con cloudinary.
 
 Ademas he creado Dashboards Interactivos de Análisis de Datos: Creé un dashboard interactivo utilizando Tableau, que permite a los usuarios explorar y visualizar datos de ventas en tiempo real, facilitando la toma de decisiones informadas.
 <hr>
