@@ -33,9 +33,9 @@
 Bootcamp en Desarrollo Web Full Stack: Graduado del prestigioso bootcamp en desarrollo web full stack en Henry, donde adquirí habilidades prácticas en el desarrollo tanto del frontend como del backend, utilizando tecnologías como HTML, CSS, JavaScript, React, Bootstrap, Node.js y Express.
 Analista y Visualizador de Datos: Mi postgrado en análisis y visualización de datos me ha proporcionado una comprensión profunda de cómo transformar datos en información significativa y visualmente atractiva. He trabajado con herramientas como Python, Tableau y PowerBI para analizar conjuntos de datos complejos y comunicar ideas de manera efectiva a través de visualizaciones claras y concisas.
 Habilidades Técnicas
-<h4>Frontend </h4>: Excelente dominio de HTML, CSS y JavaScript, junto con experiencia en frameworks modernos como React para crear interfaces de usuario interactivas y receptivas.
-<h4>Backend </h4>: Sólidos conocimientos en Node.js y Express para el desarrollo de servidores y APIs robustas, garantizando un rendimiento óptimo y una escalabilidad eficiente.
-<h4>Bases de Datos</h4>: Experiencia en el diseño y gestión de bases de datos SQL Server, MongoDB y PostgreSQL, asegurando la integridad de los datos y la eficiencia de las consultas.
+<h4>Frontend: </h4> Excelente dominio de HTML, CSS y JavaScript, junto con experiencia en frameworks modernos como React para crear interfaces de usuario interactivas y receptivas.
+<h4>Backend: </h4> Sólidos conocimientos en Node.js y Express para el desarrollo de servidores y APIs robustas, garantizando un rendimiento óptimo y una escalabilidad eficiente.
+<h4>Bases de Datos:</h4> Experiencia en el diseño y gestión de bases de datos SQL Server, MongoDB y PostgreSQL, asegurando la integridad de los datos y la eficiencia de las consultas.
 <h4>Proyectos Destacados </h4>
 <h3>HELPDESK</h3>
 <p>
