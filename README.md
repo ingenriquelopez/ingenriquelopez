@@ -28,6 +28,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
+     <a href="https://icons.getbootstrap.com/assets/img/icons-hero.png" target="_blank" rel="noreferrer">
+        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="javascript" width="40" height="40"/> 
+    </a> 
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="reactnative" width="40" height="40"/> 
     </a> 
