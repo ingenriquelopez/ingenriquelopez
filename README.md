@@ -47,6 +47,8 @@
     </a> 
     <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="70" height="50"/> 
     </a> 
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*msfsws06ImMSJYop.jpg" alt="sqlalchemy" width="70" height="50"/> 
+    </a> 
     
     
     
