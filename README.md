@@ -58,6 +58,12 @@
     <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/>
     </a> 
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="50" height="50"/>
+    </a> 
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="50" height="50"/>
+    </a> 
 </p>
 <h3> 
   Desarrollador Web Full Stack | Analista de Datos
