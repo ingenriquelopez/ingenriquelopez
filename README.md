@@ -2,9 +2,6 @@
 <h1 align="center">I'm ENRIQUE LOPEZ FLORES 👋</h1>
 
 <h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
-<p align="center">
-  <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/humanoide.gif" width="240" height="240" alt="ingenriquelopez" />
-</p>
 
 
 <h3 align="center">Connect with me:</h3>
