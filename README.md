@@ -29,7 +29,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
     </a> 
      <a href="https://icons.getbootstrap.com/assets/img/icons-hero.png" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="50" height="50"/> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="express" width="50" height="50"/>
     </a> 
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="50" height="50"/> 
@@ -47,9 +47,9 @@
     </a> 
     <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="70" height="50"/> 
     </a> 
-     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="express" width="40" height="40"/>
-    </a> 
+    
+    
+    
 
 
     
