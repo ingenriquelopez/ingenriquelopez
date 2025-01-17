@@ -69,6 +69,9 @@
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="50" height="50"/>
     </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/017/119/660/small_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="github" width="50" height="50"/>
+    </a> 
 </p>
 <h3> 
   Desarrollador Web Full Stack | Analista de Datos
