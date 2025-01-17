@@ -58,8 +58,7 @@
     <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/>
     </a> 
-     
-</p>](url)
+</p>
 <h3> 
   Desarrollador Web Full Stack | Analista de Datos
 </h3>
