@@ -51,6 +51,9 @@
     </a> 
 </p>
 <p align="center">
+    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/>
+    </a> 
     <a href="https://www.microsoft.com/es-mx/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="50" height="50"/>
     </a> 
@@ -60,10 +63,7 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
     </a> 
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/>
-    </a> 
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="50" height="60"/>
     </a> 
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
