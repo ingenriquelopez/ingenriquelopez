@@ -5,7 +5,7 @@
 <h3 align="center">Ing. en Sistemas Computacionales</h3>
 
 
-<h3 align="center">Connect with me:
+<h3 align="center">Conecta Conmigo!...
     <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center"     
      src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/in.avif" alt="enrique-lopezflores" height="30" 
     width="40" />
