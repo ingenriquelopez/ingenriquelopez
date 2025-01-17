@@ -70,7 +70,7 @@
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="50" height="50"/>
     </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/017/119/660/small_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="github" width="50" height="50"/>
+        <img src="https://cdn.prod.website-files.com/63be620d63863b897c02c28a/6477657755c46a6f4965855f_github_large.png" alt="github" width="80" height="50"/>
     </a> 
 </p>
 <h3> 
