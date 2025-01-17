@@ -7,8 +7,8 @@
 
 <h3 align="center">Conecta Conmigo!...
     <a href="https://linkedin.com/in/enrique-lopezflores" target="blank">
-        <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="enrique-lopezflores" height="30" 
-    width="40" />
+        <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="enrique-lopezflores" height="50" 
+    width="50" />
     </a>
 </h3>
   <p align="center">   
