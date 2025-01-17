@@ -1,5 +1,5 @@
 
-<h1 align="center">SOY ENRIQUE LOPEZ FLORES 👋</h1>
+<h1 align="center">SOY ENRIQUE LOPEZ 👋</h1>
 
 <h2 align="center">Full Stack Web Developer</h2>
 <h3 align="center">Ing. en Sistemas Computacionales</h3>
