@@ -88,7 +88,7 @@ En mi trabajo, busco siempre aprender, innovar y colaborar con otros profesional
   Experiencia y Educación  
   </h3>
   
-Desarrollador web full-stack con un fuerte enfoque en la creación de soluciones web personalizadas. Actualmente me encuentro en el bootcamp de desarrollo web full-stack de 4Geeks, donde estoy ampliando mis habilidades en tecnologías frontend y backend. Mi formación en análisis de datos me permite agregar valor a los proyectos a través de la visualización de datos y la extracción de insights clave.
+Desarrollador web full-stack con un fuerte enfoque en la creación de soluciones web personalizadas. Recientemente conclui el EXCELENTE bootcamp de desarrollo web full-stack de 4Geeks, donde amplie mis habilidades en tecnologías frontend y backend. Siendo Ingeniero en sistemas computacionales con una formación de postgrado en análisis de datos me permite agregar valor a los proyectos a través de la visualización de datos y la extracción de insights clave.
 Habilidades Técnicas
 <h4>Frontend: </h4> Excelente dominio de HTML, CSS, BOOTSRAP y JavaScript, junto con experiencia en frameworks modernos como React para crear interfaces de usuario interactivas y receptivas.
 <h4>Backend: </h4> Sólidos conocimientos en Node.js y Express asi como Python y Flask para el desarrollo de servidores y APIs robustas, garantizando un rendimiento óptimo y una escalabilidad eficiente.
