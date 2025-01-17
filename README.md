@@ -77,8 +77,13 @@
   Desarrollador Web Full Stack | Analista de Datos
 </h3>
 <p>
-¡Hola! Soy Enrique Lopez, un ingeniero en sistemas computacionales con un postgrado en análisis y visualización de datos egresado de la Universidad UNIR. Apasionado por la creación de soluciones tecnológicas innovadoras, mi objetivo es combinar mis habilidades técnicas con mi experiencia en análisis de datos para desarrollar aplicaciones web de alta calidad y funcionalidad.
-<hr>
+¡Hola! Soy Enrique López, un apasionado Web Developer con un enfoque en soluciones innovadoras.
+
+Soy Ingeniero en Sistemas Computacionales con un postgrado en Análisis y Visualización Masiva de Datos.Mi objetivo es crear aplicaciones web de alta calidad que resuelvan problemas reales, combinando mis habilidades técnicas y mi experiencia en análisis de datos.
+
+Me especializo en el desarrollo de aplicaciones web, desde la creación de interfaces atractivas hasta la optimización de la experiencia del usuario, siempre con un enfoque en la escalabilidad, el rendimiento y la accesibilidad. Además, tengo un profundo interés por el uso de datos para tomar decisiones informadas y mejorar las funcionalidades de las plataformas web.
+
+En mi trabajo, busco siempre aprender, innovar y colaborar con otros profesionales para crear productos que hagan una diferencia<hr>
   <h3>
   Experiencia y Educación  
   </h3>
