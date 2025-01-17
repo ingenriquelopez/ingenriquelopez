@@ -105,8 +105,10 @@ Además, para garantizar un despliegue sin problemas y una alta disponibilidad, 
 </p>
 
 <h3>TECNOSHOP:</h3> Desarrollé un sistema Ecommerce para gestión de ventas online para una empresa comercializadora de articulos de tecnologia, utilizando React y Redux en el frontend y Node.js Express y sequelize en el backend, con integración a Postgresql para el almacenamiento de datos.Cuenta con autentificacion usando Auth0 y almacenamiento de imagenes con cloudinary.
-
-Ademas he creado Dashboards Interactivos de Análisis de Datos: Creé un dashboard interactivo utilizando Tableau, que permite a los usuarios explorar y visualizar datos de ventas en tiempo real, facilitando la toma de decisiones informadas.
+<hr>
+<h3>Financia+e, Aplicación Web para la Gestión de Finanzas Personales
+Desarrollé "Financia+e", una aplicación web integral diseñada para simplificar la gestión de finanzas personales. Esta plataforma permite a los usuarios registrar y categorizar sus ingresos y egresos, facilitando un seguimiento preciso de sus movimientos financieros. Además, ofrece herramientas para la creación y gestión de planes de ahorro personalizados, control de suscripciones y la visualización clara de datos financieros a través de gráficas interactivas.
+</h3>
 <hr>
 
 <h3>Colaboración y Comunicación </h3>
