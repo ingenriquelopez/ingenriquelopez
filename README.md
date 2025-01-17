@@ -1,15 +1,17 @@
 
 <h1 align="center">SOY ENRIQUE LOPEZ FLORES 👋</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
-<h2 align="center">Ing. en Sistemas Computacionales</h2>
+<h2 align="center">Full Stack Web Developer</h2>
+<h3 align="center">Ing. en Sistemas Computacionales</h3>
 
 
-<h3 align="center">Connect with me:</h3>
-  <p align="center">
+<h3 align="center">Connect with me:
     <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center"     
      src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/in.avif" alt="enrique-lopezflores" height="30" 
     width="40" /></a>
+
+</h3>
+  <p align="center">
   </p>
   <p align="center"> <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" margin= "auto"/> </p>  
   
