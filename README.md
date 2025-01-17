@@ -1,7 +1,8 @@
 
-<h1 align="center">I'm ENRIQUE LOPEZ FLORES 👋</h1>
+<h1 align="center">SOY ENRIQUE LOPEZ FLORES 👋</h1>
 
-<h3 align="center">Ing. en Sistemas Computacionales y Full Stack Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center">Ing. en Sistemas Computacionales</h2>
 
 
 <h3 align="center">Connect with me:</h3>
