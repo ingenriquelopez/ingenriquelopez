@@ -49,6 +49,8 @@
     </a> 
     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*msfsws06ImMSJYop.jpg" alt="sqlalchemy" width="80" height="55"/> 
     </a> 
+</p>
+<p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
     </a> 
