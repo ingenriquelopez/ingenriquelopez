@@ -6,8 +6,8 @@
 
 
 <h3 align="center">Conecta Conmigo!...
-    <a href="https://linkedin.com/in/enrique-lopezflores" target="blank"><img align="center"     
-     src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/in.avif" alt="enrique-lopezflores" height="30" 
+    <a href="https://linkedin.com/in/enrique-lopezflores" target="blank">
+        <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="enrique-lopezflores" height="30" 
     width="40" />
     </a>
 </h3>
