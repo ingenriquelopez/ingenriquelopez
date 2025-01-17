@@ -110,6 +110,7 @@ Además, para garantizar un despliegue sin problemas y una alta disponibilidad, 
 Aplicación Web para la Gestión de Finanzas Personales
 <p>
 Desarrollé "Financia+e", una aplicación web integral diseñada para simplificar la gestión de finanzas personales. Esta plataforma permite a los usuarios registrar y categorizar sus ingresos y egresos, facilitando un seguimiento preciso de sus movimientos financieros. Además, ofrece herramientas para la creación y gestión de planes de ahorro personalizados, control de suscripciones y la visualización clara de datos financieros a través de gráficas interactivas.
+    como herramientas Front use Html, css, bootstrao, javascript y react, por parte del BackEnd utilice Python, Flasl, sqlalchemy, jws Token Json, y base de datos postgresql.
 </p>
 </h3>
 <hr>
