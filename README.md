@@ -11,7 +11,7 @@
     width="40" /></a>
 
 </h3>
-  <p align="center">   <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" style="margin: auto; border-radius: 10%;" /> </p>  
+  <p align="center">   <img src="https://github.com/ingenriquelopez/ingenriquelopez/blob/main/Code2.gif" alt="ingenriquelopez" style="margin: auto; border-radius: 10" /> </p>  
   
 
 
