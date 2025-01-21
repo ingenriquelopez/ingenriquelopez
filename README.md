@@ -105,7 +105,7 @@ Además, para garantizar un despliegue sin problemas y una alta disponibilidad, 
 </p>
 
 
-<h3> <a href = "https://e-commerce-pf-henna.vercel.app/"> TECNOSHOP:</a> </h3> <p>Ecommece de articulos de Tech</p>   <a href = "href = "https://e-commerce-pf-henna.vercel.app/"> ir a Proyecto TecnoShop! </a>
+<h3> <a href = "https://e-commerce-pf-henna.vercel.app/"> TECNOSHOP:</a> </h3> <p>Ecommece de articulos de Tech</p> <a href="https://e-commerce-pf-henna.vercel.app/"> ir a Proyecto TecnoShop! </a>
 
 <p>Desarrollé un sistema Ecommerce para gestión de ventas online para una empresa comercializadora de articulos de tecnologia, utilizando React y Redux en el frontend y Node.js Express y sequelize en el backend, con integración a Postgresql para el almacenamiento de datos.Cuenta con autentificacion usando Auth0 y almacenamiento de imagenes con cloudinary.
 </p>
