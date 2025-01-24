@@ -95,7 +95,9 @@ En mi trabajo, busco siempre aprender, innovar y colaborar con otros profesional
 <h4>Backend: </h4> Sólidos conocimientos en Node.js y Express asi como Python y Flask para el desarrollo de servidores y APIs robustas, garantizando un rendimiento óptimo y una escalabilidad eficiente.
 <h4>Bases de Datos:</h4> Experiencia en el diseño y gestión de bases de datos SQL Server, MongoDB y PostgreSQL, asegurando la integridad de los datos y la eficiencia de las consultas.
 <h4>Proyectos Destacados </h4>
-<h3>HELPDESK</h3>
+<h3> <a href = "https://helpdesk-frontend-eb6d8026acce.herokuapp.com/"> HELPDESK:</a> </h3> <p>App para la gestion del Soporte Tecnico</p> <a href = "https://helpdesk-frontend-eb6d8026acce.herokuapp.com/"> ir a version Demo Proyecto HelpDesk! </a>
+
+
 <p>
   Uno de mis proyectos destacados es Helpdesk, un sistema completo para gestionar la administración y control de servicios de soporte técnico. Con Helpdesk, las empresas pueden gestionar de manera eficiente sus tickets de soporte, asignar tareas, realizar seguimientos y generar informes detallados para mejorar la calidad del servicio.
 
@@ -104,13 +106,12 @@ Helpdesk fue desarrollado utilizando un conjunto de tecnologías de vanguardia. 
 Además, para garantizar un despliegue sin problemas y una alta disponibilidad, opté por los servicios de AWS. Utilizando las capacidades de AWS, pude implementar Helpdesk de manera rápida y segura, garantizando una experiencia sin interrupciones para los usuarios finales.
 </p>
 
-
-<h3> <a href = "https://e-commerce-pf-henna.vercel.app/"> TECNOSHOP:</a> </h3> <p>Ecommece de articulos de Tech</p> <a href="https://e-commerce-pf-henna.vercel.app/"> ir a Proyecto TecnoShop! </a>
+<h3> <a href = "https://e-commerce-pf-henna.vercel.app/"> TECNOSHOP:</a> </h3> <p>Ecommece de articulos de Tech</p> <a href="https://e-commerce-pf-henna.vercel.app/"> ir a version Demo Proyecto TecnoShop! </a>
 
 <p>Desarrollé un sistema Ecommerce para gestión de ventas online para una empresa comercializadora de articulos de tecnologia, utilizando React y Redux en el frontend y Node.js Express y sequelize en el backend, con integración a Postgresql para el almacenamiento de datos.Cuenta con autentificacion usando Auth0 y almacenamiento de imagenes con cloudinary.
 </p>
 <hr>
-<h3> <a href = "https://tinyurl.com/financiate"> FINANCIATE:</a> </h3> <p>Aplicación Web para la Gestión de Finanzas Personales</p>   <a href = "https://tinyurl.com/financiate"> ir a Proyecto Financiate! </a>
+<h3> <a href = "https://tinyurl.com/financiate"> FINANCIATE:</a> </h3> <p>Aplicación Web para la Gestión de Finanzas Personales</p>   <a href = "https://tinyurl.com/financiate"> ir a version Demo Proyecto Financiate! </a>
 <p>
 Desarrollé "Financia+e", una aplicación web integral diseñada para simplificar la gestión de finanzas personales. Esta plataforma permite a los usuarios registrar y categorizar sus ingresos y egresos, facilitando un seguimiento preciso de sus movimientos financieros. Además, ofrece herramientas para la creación y gestión de planes de ahorro personalizados, control de suscripciones y la visualización clara de datos financieros a través de gráficas interactivas.
     como herramientas Front use Html, css, bootstrao, javascript y react, por parte del BackEnd utilice Python, Flasl, sqlalchemy, jws Token Json, y base de datos postgresql.
